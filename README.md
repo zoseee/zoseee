@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Name: Jakob Tiger
-### Currently enrolled in courses COMPE561, COMPE475, EE330, COMPE596 at SDSU
+
 
 <!--
 **zoseee/zoseee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
